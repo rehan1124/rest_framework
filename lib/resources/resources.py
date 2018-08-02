@@ -1,0 +1,8 @@
+api_url = "https://reqres.in"
+get_single_user = "/api/users/2"
+get_user_not_found = "/api/users/23"
+get_single_resource = "/api/unknown/2"
+post_create_user = "/api/users"
+put_update_user = "/api/users/2"
+delete_user = "/api/users/2"
+api_key = ""
